@@ -68,6 +68,7 @@ o	Shows loading indicators when fetching or creating events.
 
 o	Displays errors like invalid input, authentication issues, or network problems.
 
+
 Technologies Used
 
 •	HTML5, CSS3 for UI layout and styling

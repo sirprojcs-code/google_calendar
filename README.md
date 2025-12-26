@@ -1,10 +1,10 @@
-Google Calendar Viewer & Event Manager
+# Google Calendar Viewer & Event Manager
 
-Overview
+# Overview
 
 This project allows users to view and create events on their Google Calendar directly from a web interface. It consists of two parts: the frontend (HTML & CSS) for UI and the JavaScript logic for interacting with the Google Calendar API.
 
-Features
+# Features
 
 •	View events from a specific calendar.
 
@@ -16,7 +16,7 @@ Features
 
 •	Responsive design for desktop and mobile devices.
 
-Role Assignment 
+# Role Assignment 
 
 •	Kasandra Joy Cruz – JavaScript Logic / Data Processing / UI & CSS Designer
 
@@ -26,7 +26,7 @@ Role Assignment
 
 •	Pia Joy Tenepere – UI & CSS Designer
 
-Project Structure
+#Project Structure
 
 project/
 
@@ -40,7 +40,7 @@ project/
 
 ├─ config.js           # Stores API key or configuration for Google Calendar API
 
-How It Works
+# How It Works
 
 1.	View Events
    
@@ -69,7 +69,7 @@ o	Shows loading indicators when fetching or creating events.
 o	Displays errors like invalid input, authentication issues, or network problems.
 
 
-Technologies Used
+# Technologies Used
 
 •	HTML5, CSS3 for UI layout and styling
 
@@ -79,11 +79,11 @@ Technologies Used
 
 •	Bootstrap Icons for button icons
 
-Instructions to Run
+# Instructions to Run
 
 Open the index.html file inside the folder and it will automatically open in your browser. No server setup is required.
 
-Notes
+# Notes
 
 •	Make sure the calendar is shared properly if using someone else’s calendar.
 

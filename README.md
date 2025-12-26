@@ -52,7 +52,7 @@ o	Click Load Events to fetch events from Google Calendar API.
 
 o	Events display in cards showing title, date & time, location, and description.
 
-3.	Create Events
+2.	Create Events
    
 o	Fill in Calendar ID, event title, date, start and end time, optional description.
 
@@ -62,7 +62,7 @@ o	Click Create Event to add it to your Google Calendar.
 
 o	Success or error messages are shown after submission.
 
-5.	User Feedback
+3.	User Feedback
    
 o	Shows loading indicators when fetching or creating events.
 
